@@ -1,4 +1,4 @@
-package org.tnsif.unidirectional;
+package org.tnsindia.unidirectional;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;

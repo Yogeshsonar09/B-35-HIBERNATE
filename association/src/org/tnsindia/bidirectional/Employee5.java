@@ -1,4 +1,4 @@
-package org.tnsif.bidirectional;
+package org.tnsindia.bidirectional;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
